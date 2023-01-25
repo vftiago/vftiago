@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <samp>
     <a href="https://vftiago.com">quirky personal site</a> .
     <a href="https://lightradius.com">serious business site</a> .
