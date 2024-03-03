@@ -6,4 +6,4 @@
   </samp>
 </p>
 
-Hello 👋 my name is Tiago and I'm a frontend developer at <a href="https://github.com/seekingalpha"><b>@seekingalpha</b></a>.
+Hello 👋 my name is Tiago and I'm a software engineer.
