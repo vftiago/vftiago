@@ -5,5 +5,3 @@
     <a href="https://linkedin.com/in/vftiago">linkedin</a>
   </samp>
 </p>
-
-Hello 👋 my name is Tiago and I'm a software engineer.
